@@ -39,10 +39,6 @@ variable "address_prefixes" {
   
 }
 
-variable "virtual_network_name" {
-  type = string
-}
-
 variable "virtual_network_size" {
   
 }
