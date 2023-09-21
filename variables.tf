@@ -9,7 +9,6 @@ variable "ip_configuration_name" {}
 variable "private_ip_address_allocation" {}
 variable "address_space" {}
 variable "address_prefixes" {}
-variable "virtual_network_name" {}
 variable "virtual_network_size" {}
 variable "admin_username" {}
 variable "admin_password" {}
@@ -18,4 +17,4 @@ variable "storage_account_type" {}
 variable "publisher" {}
 variable "offer" {}
 variable "sku" {}
-variable "version" {}
+variable "image_version" {}

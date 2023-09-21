@@ -74,7 +74,3 @@ variable "offer" {
 variable "sku" {
   type = string
 }
-
-variable "version" {
-  type = string
-}
